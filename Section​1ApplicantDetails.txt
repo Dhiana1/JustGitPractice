@@ -1,0 +1,22 @@
+This is my first file. 
+
+Some lorem ipsum here:
+
+Section​ ​1:​ ​Applicant’s​ ​details
+1. A.​ ​ ​Are​ ​you:​*
+● An​ ​individual
+● A​ ​company
+● An​ ​association
+● An​ ​academic​ ​institution
+● A​ ​non-profit​ ​body
+● A​ ​partnership
+
+B.​ ​Please​ ​provide​ ​your​ ​organisation’s​ ​name​ ​and​ ​parent​ ​company​ ​name​ ​(if
+applicable),​ ​or​ ​your​ ​name​ ​(if​ ​you​ ​are​ ​applying​ ​as​ ​an​ ​individual)​*
+[max 100 characters]
+
+C.​ ​Please​ ​briefly​ ​describe​ ​your​ ​organisation​ ​or,​ ​if​ ​you​ ​are​ ​applying​ ​as​ ​an​ ​individual,
+your​ ​current​ ​occupation.​ ​Tell​ ​us​ ​more​ ​about​ ​your​ ​team​ ​(team​ ​members
+description,​ ​organisational​ ​structure​ ​of​ ​the​ ​project​ ​team)​ ​and/or,​ ​if​ ​you​ ​apply​ ​as​ ​an
+individual,​ ​your​ ​career​ ​history​*
+[max 2000 characters]
